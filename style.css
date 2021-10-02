@@ -1,0 +1,6 @@
+.marco{
+    width: 350px;
+    height: 350px;
+    align-self: center;
+    object-fit: cover;
+}
